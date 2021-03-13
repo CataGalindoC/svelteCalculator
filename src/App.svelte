@@ -24,7 +24,7 @@ let operator = '';
 
 </script>
 
-<h1>I'm ready!</h1>
+<h1>holiiiiiiiiiiiiii!</h1>
 
 {#each arrayNumbers as number}
 <button on:click={function(){saveNumber(number)}}>{number}</button>
